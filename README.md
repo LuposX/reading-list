@@ -7,21 +7,28 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 ## General Resources
 
 ### Paper Lists
-
+<details>
+  <summary>Click to expand!</summary>
+ 
 - [Awesome Deep Learning](https://github.com/terryum/awesome-deep-learning-papers)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Deep Reinforcement Learning Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
 - [ML@B Summer Reading List](https://docs.google.com/spreadsheets/d/1921snepdp5iQMqTfHic7fOtcgaXH27XK9MBS993cQXg/edit#gid=0)
+</details>
 
 ### Courses
-
+<details>
+  <summary>Click to expand!</summary>
+ 
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Free on Youtube
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning), Free on Coursera
-
+</details>
 
 ### Lab Blogs
-
+<details>
+  <summary>Click to expand!</summary>
+ 
 - [BAIR blog](http://bair.berkeley.edu/blog/)
 - [DeepMind blog](https://deepmind.com/blog/)
 - [OpenAI blog](https://blog.openai.com/)
@@ -30,16 +37,29 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [FAIR blog](https://research.fb.com/blog/)
 - [NVIDIA blog](https://blogs.nvidia.com/blog/category/deep-learning/)
 - [MSR blog](https://www.microsoft.com/en-us/research/blog/)
+</details>
 
 ### Personal Blogs
-
+<details>
+  <summary>Click to expand!</summary>
+ 
 - [Lilian Weng, OpenAI](https://lilianweng.github.io/lil-log/)
 - [Eric Jang, Robotics at Google](http://evjang.com/articles.html)
 - [Alex Irpan, Robotics at Google](https://www.alexirpan.com/)
+</details>
+
+## General Deep Learning  
+
+### Papers
+
+- [x] **The Limit of the Batch Size** (2020), Yang You, Yuhui Wang, ect. [[pdf]](https://arxiv.org/pdf/2006.08517.pdf)  
+- [x] **Why AI is Harder Than We Think** (2021), Melanie Mitchell, ect. [[pdf]](https://arxiv.org/pdf/2104.12871.pdf)  
 
 ## Reinforcement Learning (RL)
 
 ### Papers
+
+- [x] **Counter-Strike Deathmatch with Large-Scale Behavioural Cloning** (2021), Tim Pearce, Jun Zhu, ect. [[pdf]](https://arxiv.org/pdf/2104.04258.pdf)  
 
 ## Computer Vision / CNNs
 
