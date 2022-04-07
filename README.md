@@ -61,7 +61,10 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 
 - [x] **Counter-Strike Deathmatch with Large-Scale Behavioural Cloning** (2021), Tim Pearce, Jun Zhu, ect. [[pdf]](https://arxiv.org/pdf/2104.04258.pdf)  
 
-## Computer Vision / CNNs
+## Computer Vision / CNN
+
+- [x] **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** (2020) [[pdf]](https://arxiv.org/abs/2010.11929)
+- [x] **Are we done with ImageNet?** (2020) [[pdf]](https://arxiv.org/abs/2006.07159)
 
 ### Papers
 
