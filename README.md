@@ -73,6 +73,7 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 ## Natural Language Processing / RNNs
 
 ### Papers
+- [x] **PaLM: Scaling Language Modeling with Pathways** (2022), Aakanksha Chowdhery, Sharan Narang, ect. [[pdf]](https://arxiv.org/abs/2204.02311)  
 
 ### Other
 
