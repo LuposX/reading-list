@@ -2,7 +2,7 @@
 
 A list of papers and resources I have read, am reading, or want to read. The majority are deep learning research papers, specifically in...
 
-*Last updated: 03.09.2021*
+*Last updated: 13.04.2022*
 
 ## General Resources
 
