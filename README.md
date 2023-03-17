@@ -74,6 +74,7 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 
 ### Papers
 - [x] **PaLM: Scaling Language Modeling with Pathways** (2022), Aakanksha Chowdhery, Sharan Narang, ect. [[pdf]](https://arxiv.org/abs/2204.02311)  
+- [x] **Will we run out of data? An analysis of the limits of scaling datasets in Machine Learning** (2022), by Pablo Villalobos, Jaime Sevilla, ect. [[pdf]](https://arxiv.org/pdf/2211.04325.pdf)
 
 ### Other
 
