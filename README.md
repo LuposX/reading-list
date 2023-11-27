@@ -86,7 +86,9 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [x] **Reflexion: Language Agents with Verbal Reinforcement Learning**, (2023) [pdf](http://arxiv.org/abs/2303.11366)
 - [x] **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, (2023) [pdf](http://arxiv.org/abs/2305.10601)
 - [x] **Training language models to follow instructions with human feedback**, (2022) [pdf](http://arxiv.org/abs/2203.02155)
-- [x] **Constitutional AI: Harmlessness from AI Feedback**, (2023) [pdf](http://arxiv.org/abs/2212.08073)    
+- [x] **Constitutional AI: Harmlessness from AI Feedback**, (2023) [pdf](http://arxiv.org/abs/2212.08073)
+- [x] **Efficient Estimation of Word Representations in Vector Space**, (2013) [pdf](https://arxiv.org/abs/1301.3781) 
+
 
 ## Adversarial Learning / GANs
 
